@@ -1,0 +1,142 @@
+﻿Subject: State telecom round-up
+From: scott@ext-eml.com
+Date: Mon, 22 Nov 1999 17:18:00 +0000
+To: "sue nord",
+    "susan m landwehr",
+    "jeff dasovich",
+    "marchris robinson",
+    "lisa yoho",
+    aleck
+Cc: rshapiro@leaf.com
+
+
+	Let 'Em See Something In Writing 
+
+?????Hurricane Floyd was creeping its way up the coast to New York City when 
+the Advisory Commission on Electronic Commerce held its last meeting 
+mid-September. Sensing impending travel catastrophes coupled with a mass 
+exodus down the shoreline to Washington after the session's adjournment, the 
+group appeased a eleventh-hour call from Utah Gov. Michael Leavitt, R, to 
+request proposals from the public on how to best deal with the prospect of 
+taxing e-commerce. And this week, after around 30 proposals were submitted to 
+the commission, a different kind of storm began to brew. 
+?????Consumer advocacy groups, local government organizations and 
+commission-watchers unleashed a flurry of pressrelease@leaf.coms and media events to 
+announce their proposals, which were due to the commission on Nov. 15. Many 
+of the submissions, which were called to meet a set of 18 criteria ranging 
+from "meeting constitutional muster" to "radically simplifying the sales tax 
+system," responded to Leavitt's plan. Also due on that date were comments to 
+be considered for the report-drafting subcommittee's issues and options 
+paper, which will serve as a compilation of ideas on the topic of electronic 
+commerce and taxation for the entire commission to consider while it drafts 
+its final recommendation. 
+?????"What I think we're seeing is a tremendously positive development," said 
+Jim Lucier, a Prudential analyst who worked with Americans for Tax Reform's 
+Grover Norquist as he lobbied while the legislation creating the commission 
+was being drafted. "Instead of constantly squabbling, you have important 
+groups within the commission working hard to get majority positions." 
+?????Because infighting has plagued the commission from its beginning, a 
+majority may be the most difficult endeavor many of these groups have worked 
+for. The 19-member commission needs a two-thirds majority vote to approve any 
+recommendation, and the group already has shifted into pro- and anti-tax 
+factions, with only a few still undecided. The proposals are making their 
+rounds among the commission-members, and the next meeting is Dec. 14. While 
+there are a host of groups that have submitted their propositions it appears 
+that three are getting the majority of the commission's attention (and one, 
+specifically, because it was drafted by the group's chairman, Virginia Gov. 
+Jim Gilmore). Following is a synopses and analysis of the three plans that 
+have the best chance of succeeding: 
+	Title: Streamlined Sales Tax System for the 21st Century (Zero-Burden Plan) 
+Sponsor: National Governors' Association, National Conference of State 
+Legislatures, National Association of Counties, U.S. Conference of Mayors, 
+Council of State Governments, International City County Management 
+Association. While the remaining member of the "Big Seven" local 
+organizations, the National League of Cities, has backed the proposal's 
+intent, it is waiting until its annual meeting in December to vote on 
+supporting it officially.
+Description: The idea centers around establishing a "trusted third party," or 
+tax clearinghouse, to collect and remit sales taxes based on the purchaser's 
+tax jurisdiction. When an online order is placed, the seller would notify the 
+clearinghouse and credit card company to determine the jurisdiction of the 
+buyer. The third party would notify the seller of the appropriate tax amount, 
+the credit card company would collect the funds and then remit the tax to the 
+clearinghouse. The clearinghouse would then distribute the funds to the 
+states and localities and would be paid by a percentage of what it collects. 
+The third parties would be licensed by the state and the necessary software 
+required of each vendor would be paid for by the state.
+History: The plan was drafted after a series of marathon meetings by the 
+local organizations that argue they are jeopardized because of lost sales tax 
+revenues from e-commerce. Organizers of the proposal, which is being touted 
+by Gov. Leavitt, say that regardless of the commission's final decision they 
+will begin pushing the system to state legislatures for adoption. Under the 
+Internet Tax Freedom Act, no new taxes may be applied to e-commerce, but 
+existing taxes, such as sales and use taxes, are not covered. The sponsors 
+say they do not need the commission's go-ahead in order to implement the 
+system, which would be optional by state and would not require all 50 states' 
+involvement to function. Comments: The plan is widely criticized by anti-tax 
+advocates and those who believe that taxing e-commerce will stifle its 
+growth. Others say that the pro-tax movement is only supported by the 
+national government organizations and not their members, with Leavitt being 
+the notable exception, and criticize it for not receiving many other 
+individuals' support. But the organizations argue that unless states and 
+localities have the right to determine revenue-raising activities, control of 
+local services like education and law enforcement ultimately will be given to 
+the federal government. "Thomas Jefferson would roll over in his grave" if 
+that happens, Leavitt said. 
+	Title: E-Freedom Coalition Proposal
+Sponsors: The E-Freedom Coalition's membership involves over 20 
+organizations, including Americans for Tax Reform, Citizens Against 
+Government Waste, Competitive Enterprise Institute, Consumer Alert, Heritage 
+Foundation, Progress and Freedom Foundation and State Policy Network. 
+Description: The group supports a ban on collection of sales taxes on 
+electronic commerce and the repeal of the 3 percent federal excise tax on 
+telecommunications. It also would ban discriminatory Internet taxation and 
+taxes on Internet access. The group endorses slashing local 
+telecommunications taxes and wants to see interstate telecom property taxes 
+reduced and controlled with federal protections. History: The E-Freedom 
+Coalition unveiled its proposal at a joint press conference with legislation 
+by House Budget Committee Chairman John Kasich, R-OH, that would ban Internet 
+sales taxes. Kasich's Internet Tax Elimination Act, H.R. 3252, would make 
+permanent the three-year moratorium on discriminatory Internet taxes passed 
+in the Internet Tax Freedom Act. Fellow Ohio Republican John Boehner joined 
+Kasich in sponsoring the measure. Comments: Americans for Tax Reform's 
+Norquist has led the anti-tax movement on the commission. Stan Sokul, an 
+independent consultant for the Association for Interactive Media was also on 
+hand to support the proposal. Advocates are promoting the plan by saying it 
+would protect consumers' privacy by not collecting personal information from 
+users to determine tax jurisdictions. 
+	Title: No Internet Tax
+Sponsor: Virginia Gov. Jim Gilmore, R, chairman of the Advisory Commission on 
+Electronic Commerce Description: Gilmore's proposal is almost identical in 
+ideology to the E-Freedom Coalition plan. He maintains Congress should ban 
+all sales and use taxes on e-commerce and protect businesses from state 
+income and business activity taxes simply because of their virtual presence 
+in a state. Gilmore also has proposed the elimination of the 3 percent 
+federal excise tax on telecommunications and has called for the federal 
+government to give states $1.7 billion each year for the lost revenue from 
+the repeal of sales taxes on e-commerce transactions. He also has proposed 
+that states be allowed to use federal welfare money to purchase computers and 
+Internet access for needy families.
+History: Gilmore's outline was submitted to the policies and options paper 
+that the commission is preparing, not under the call for proposals suggested 
+by Leavitt. But because he is the chair of the commission and had maintained 
+that he would remain neutral, Gilmore's actions have received criticism from 
+many on the state and local side of the debate. But he has defended his 
+actions. "After hearing dozens of experts on an entire range of e-commerce 
+issues, I felt it was time to put forward my vision. It can be summarized in 
+three words: No Internet Tax," Gilmore said in a recent speech. Observers 
+have speculated that Gilmore's plan could be meshed with the E-Freedom 
+Coalition's to come up with a proposal agreeable to both parties. And 
+suggestions such as the welfare provision even have appeased pro-tax groups, 
+which have said solutions such as those may be the most agreeable for a 
+consensus statement. Comments: The National Association of Counties and other 
+local groups remain opposed to the plan's provisions calling for the federal 
+government to allot funds to localities. "The fact remains that Gilmore's 
+proposal means county officials will be even more dependent on state and 
+federal governments to fund their local services," said NACo's Executive 
+Director Larry Naake. "This isn't my idea of returning more control and 
+authority to the local citizen." *by Stephanie Lash 
+
+
+
+

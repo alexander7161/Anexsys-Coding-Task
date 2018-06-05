@@ -1,0 +1,28 @@
+﻿Subject: game theory notes
+From: "J. Lamar Pierce" <pierce@haas.berkeley.edu>
+Date: Fri, 01 Oct 1999 02:31:00 +0100
+To: davis@haas.berkeley.edu,
+    abernath@haas.berkeley.edu,
+    ajm@lehman.com,
+    arao@haas.berkeley.edu
+
+
+Here are some notes on game theory, which includes basic normal form
+games, cournot, stackelberg, bertrand, Nash Equilibrium, dominant
+strategy, and other fun topics.  If any of them seem cryptic, let me know.
+I hope these are helpful.
+More notes will be coming in the future.
+Thanks.
+
+J. Lamar Pierce
+Ph.D Student
+Haas School of Business
+UC Berkeley
+
+
+
+ - Notes on Game Theory.doc
+
+
+
+

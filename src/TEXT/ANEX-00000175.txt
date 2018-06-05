@@ -1,0 +1,193 @@
+﻿Haas School of Business University of California
+
+E201a
+
+Economic Analysis for Business Decisions Professor Jonathan Leonard
+
+Answer Set #6: Dynamic Oligopoly
+
+1.
+
+(PS5 #7)
+
+Repeated Pricing with Capacity Constraints
+
+a) Is this (Doomsday) strategy profile a Nash Equilibrium? Explain how your answer depends on the demand and cost conditions and the number of firms. Answer: For this strategy to be a Nash Equilibrium, it has to be the case that neither firm will want to change its strategy once the game begins. This means, the each firm must not have an incentive to change from its opening strategy of charging the monopoly price. To determine whether charging the monopoly price is a Nash Equilibrium strategy, you need to figure out whether the firm makes more with this strategy, or could make more by defecting while its rival plays the proposed strategy. Firm Profit From Playing the Proposed Strategy: Each firm gets 1/n of the total industry profits. Total industry profits are equal to p s profits are p M=(pM-c)D(pM) so the firm’ M/n=(pM-c)D(pM)/n each period. Since the firm earns these profits in perpetuity, the present value of this strategy to the firm is (p M +p M/r)/n= (p M(1+r)/r)/n. Firm Profits From Deviating: The best way to deviate is to set p= pM-e (a small amount of undercutting). When the firm undercuts everyone else it receives all the demand in the period when it undercuts the rest of the industry, or p M=(pM-c)D(pM). In all subsequent periods it earns zero profits since its rivals will all price at marginal cost in response to its defection. So the total present discounted value of profits from the point of defection are p M The firm’ s total profits in all periods before defection are the same as the profits the firm would earn cooperating up to that point. Thus, they are irrelevant to an evaluation of whether to defect. Therefore, you need only compare the profits from the two strategies from the period in which the firm defects onward. The most straightforward way to do this is to assume that the firm defects in the first period, in which case its total profits are p M. In order for cooperation to be a Nash Equilibrium, it must be the case that the profits from cooperating are greater than the profits from defecting. This means that p M(1+r)/nr>p M, which implies that (1+r)/nr>1, or that n<(1+r)/r. Intuitively, the one-period interest rate must be sufficiently low, or the number of firms not too high, so that the one-time gain from capturing the entire market at the monopoly price, instead of just 1/n of the market, is less than the discounted value of the stream of 1/nth of the industry profits.
+
+b) Suppose that each firm adopts the following strategy: “Charge the monopoly price (p = pM) unless and until any firm charges a lower price, after which charge marginal cost (p = c) for k periods. After this ‘ punishment period,’return to monopoly pricing with the same plan for punishment in the event of another deviation.” Is this strategy profile a Nash Equilibrium? Explain how your answer depends on the demand and cost conditions and the number of firms. Answer: The benefits of cooperation remain unchanged, so you only need to consider the change to the defect strategy. One way to consider the defect strategy is to note that it looks just like the cooperate strategy once the k punishment periods expire. Therefore, we can most easily compare “cooperation profits” to
+
+1999 E201a AS6
+
+1
+
+“defection profits” by restricting our attention to the first k+1 periods, i.e., the defection period plus the k periods of punishment. From the perspective of a single firm considering defecting, the profits during the first k+1 period from defection are p M, all earned during the first period as a result of defection (price undercutting). The profits earned from cooperation are a steady stream of p M/n each period. Introducing the one-period discount factor, d = 1/ (1+ r), the present discounted value of this stream (for k+1 periods with the first payment at 2 k k+1 time zero) is (p +d +… +d ) which can be written as (p ). Comparing the profits M/n)(1+d M/n)(1-d )/(1-d from cooperation and defection, the firm earns more playing the proposed strategy of cooperation if (1k+1 d )/(1-d ) > n. Converting back from d to r by multiplying the numerator and denominator on the left-hand side by (1+r), this can be written as [(1+r) – (1+r)-k]/r > n. Notice that as k grows very large, this formula approaches the earlier formula for the grim trigger strategy.
+
+c) Now suppose that each firm has limited capacity (but constant marginal cost up to that limit). In particular, suppose that each firm has capacity of zD(pM)/n, where 1 < z < n. Provide an interpretation of the parameter z. Answer: The parameter z/n is the fraction of the total industry demand that any one firm could fill if it just undercut its rivals. When z=n the firm has sufficient capacity to serve the entire market when it undercuts its rivals. When z=1, the firm has just enough capacity to serve its share of the market and it has no incentive to cut price since doing so will not increase its sales and will only reduce its revenues.
+
+d) Suppose again, with the capacity constraints described just above, that each firm adopts the following strategy: “Charge the monopoly price (p = pM) unless and until any firm charges a lower price, after which charge marginal cost (p = c).” Is this strategy profile a Nash Equilibrium? Explain how your answer depends on the demand and cost conditions and the number of firms. Answer: Again the payoff from the cooperate strategy does not change. With a capacity constraint of z, the maximum share of the demand that a firm could take by undercutting is now restricted to zD(pM)/n, so its one period defect profits will also be restricted to zp M/n . Therefore, the cooperate strategy will be a Nash Equilibrium whenever p M(1+r)/nr>zp M/n, or as long as (1+r)/r>z. When z=n, so any single firm can meet the entire market demand, this formula is identical to that in part (a). For lower values of z, cooperation is even more likely to be sustainable, since defection is less attractive for firms facing capacity constraints. For z near unity, there is virtually no incentive to defect, and cooperation is an equilibrium even if r is high, e.g., if detection lags are long.
+
+2. a)
+
+Sweet Deterrence
+
+What is Oski's monopoly price if there is no threat of entry? (This will be a function of Oski’ s cost, c.) What would its profits be each year? Answer: MR=100 - 2Q. MR=MC => 100 - 2Q = c , so Q = 50 - c/2. P=50 + c/2 (from inverse demand ). Profit = Q(P-c) = (100 - c)2 /4. (You should have this solution down cold by now, even if you aren’ t given an explicit value for one of the parameters.)
+
+b) If entry occurred and c<20, what would the equilibrium price be, how much would each firm sell, and what would each firm's profits be?
+
+1999 E201a AS6
+
+2
+
+Answer: Oski's costs, c, are less than Axe's (20). Oski destroys Axe. Oski charges just under Axe's cost of 20 and captures the entire market, selling about Q=100-20=80 with profit 80(20-c) or 1600-80c. Axe has xero profit.
+
+If entry occurred and c>20, what would the equilibrium price be, how much would each firm sell, and what would each firm's profits be? Answer: Axe's costs (20) are less than Oski's. Axe does unto Oski what Oski just finished doing unto Axe. Now Axe prices just under c and captures the entire demand, selling approximately Q=100-c. Axe's profit is approximately (100-c)(c - 20) = -c2 +120c -2000. Oski has zero profit.
+
+c)
+
+d) If c > 20, Oski priced at its monopoly level, and entry occurred (after three years), what is the present value of Oski's profits at the beginning of the three years of monopoly pricing (as a function of c)? Answer: Oski enjoys three years of the monopoly profit calculated in part A, and from then on earns zero profits after Axe enters. The PV = [(100 - c)2 /4] [ (1/1.12)+(1/1.12)2+ (1/1.12)3 ] e) If c < 20, Oski priced at its monopoly level, and then entry occurred (after three years), what is the present value of Oski's profits at the beginning of the three years of monopoly pricing (as a function of c)? Answer: Oski enjoys three years of the monopoly profit level of part A, and from then on earns the annual profit found in part B in perpetuity. The PV= [(100 - c)2 /4] [ (1/1.12)+ (1/1.12)2 + (1/1.12)3 ] + (1/1.12)3 [(1600-80c)/0.12].
+
+f)
+
+If Axe stays out of the market and Oski charges p, what will Oski's profits be each period (as a function of c and p)? What will be the present discounted value of its profits at the beginning of any period? Answer: If Axe stays out of the market, and Oski charges P, Oski's sells 100- P and earns annual profit of (100-P) (P-c). At the beginning of any period, the PV of this perpetuity is [(100-P) (P-c)]/ 0.12.
+
+g) **Suppose that Axe observes Oski charging a price of p = 22 and Axe thinks Oski is a rational profit maximizer. Should Axe enter the market? Answer: If Axe observes Oski pricing at 22 it can infer that Oski's costs are less than the critical value of 20. Axe should stay out of a market it would be doomed to fail in. Oski has the option of pricing at the monopoly level, found in part A, P=50 + c/2, and then having the outcome of either part D (if c>20) of part E (if c<20). But even if Oski could produce at zero cost, it would monopoly price at 50 (by the result found in part A). So Axe knows that Oski is not pricing as a monopoly. Oski would only choose the limit price of P=22 if this strategy were more profitable than the monopoly pricing strategy. Axe needs to know if Oski's costs are less than its own cost of 20. A firm with costs just below 20 would prefer to monopoly price and risk entry than to limit price in perpetuity. A firm with c =20 would monopoly price at 60 for three periods, earning PV of (1600)[ (1/1.12)+ (1/1.12)2 + (1/1.12)3 ] = 3842.93. Limit pricing at 22 would yield such a firm profits of (100-22)(22-20)= 156 each year. This perpetuity has a PV of 156/0.12 = 1300. Any firm with costs of 20 will earn greater profits with the monopoly price (even if entry occurred!) than by limit pricing at 22 in perpetuity. So Axe knows that Oski must have costs below 20. Axe knows there can be no profit in entry.
+
+1999 E201a AS6
+
+3
+
+3.
+
+Price Leader
+
+A. The logic used to calculate the optimal price for the price leader is analogous to the logic used when the leader is deciding how much capacity to build (see PS5). The leader anticipates the follower’ s optimal choice when it sets its own price. Thus, the steps used to determine the leader’ s price strategy are a) determine Bayer’ s supply decision as function of Advil’ s price decision, b) subtract this supply function from total demand to get Advil’ s residual demand, c) determine the marginal revenue that Advil receives from this residual demand and set it equal to Advil’ s marginal cost to get its optimal output, and d) use this optimal output to determine Advil’ s optimal price. Without actually calculating this optimal price, it is useful to think conceptually about the relationship between Advil’ s price and Bayer’ s price. Notice that the residual demand that Advil faces increases with Bayer’ s price (by (2/3)pB). Essentially, as Bayer raises its price, fewer customers are tempted to buy from Bayer, leaving more consumers for Advil. Therefore, Advil has an incentive to induce a higher price by Bayer. Now look at Bayer’ s Best response to Advil’ s price, calculated in question 1.A., and note that Bayer’ s optimal price is increasing in Advil’ s price. The reason that Bayer’ s optimal price is higher when Advil’ s price is higher flows from the same source as Advil’ s desire to raise Bayer’ s price— a higher price by Advil leaves Bayer with more consumers. Combining these two observations, you can deduce that as a price leader Advil will want to charge a higher price than it would if it had to move simultaneously. B.&C Again, without actually calculating the profits for each firm, you know that an increase in Bayer’ s price leaves Advil with more demand i.e. it faces a larger market. Since it is also charging a higher price, its profits will be higher when it is a leader. The same logic holds for Bayer. Bayer’ s higher price induces Advil to raise its price expands Bayer’ s market and increases its profits. D. Using the steps outlined in part A., the Nash Equilibrium prices for the leader (Advil) and follower (Bayer) are as follows: a) Bayer’ s best response to Advil’ s choice of price
+
+p* B ( p A ) = 505 +
+
+1 3
+
+pA
+2 3 2 3
+
+b) Use this best response to calculate Advil’ s residual demand
+
+q A = 1000 - p A + = 1000 - p A + =
+4010 3
+
+pB ( p A ) (505 +
+1 3
+
+pA )
+
+-
+
+7 9
+
+pA
+9 7
+
+030 p A = 12 ,7 -
+030 mrA = 12,7 -
+
+qA
+q* A = 10 = mc A
+
+c) Calculate Advil’ s marginal revenue and set it equal to marginal cost to determine the optimal quantity
+18 7
+
+q* A = 664.44
+d) Calculate the optimal price based on the optimal quantity
+12 ,030 p* - A = 7 12 ,030 p* - A = 7 9 7 9 7
+
+q* A (664.44)
+
+p* A = 864.29
+Equilibrium profits for Advil are now (864.29-10)*(664.44)=$567,625 For Bayer, p B (864.29) = 505 + 1 (864.29) = 793.09 and the optimal quantity is now 783.09. Its 3 profits have increased to $613,241. Note that both the leader and follower do better, but that the follower has gained more from the cost change than the leader.
+*
+
+1999 E201a AS6
+
+4
+
+4. Cost Signaling Firm JL hopes to deter CS’ s entry into its lucrative market. Inverse demand is p = 200- Q/2 annually, and is expected to stay that way. The interest rate is 10 percent. CS, the potential entrant has costs TC = 80Q, plus a small but positive entry cost that cannot be recovered upon exit. CS’ s costs are known to the incumbent JL. Both firms know that after entry there will be undifferentiated Bertrand competition, with the company setting the lower price serving the entire market. CS does not know JL’ s costs. Despite JL’ s sterling reputation (!), CS is concerned that JL may try to bluff, setting a low price to discourage CS from entering the market. CS can enter at any time. What price would deter CS’ s entry? How could CS know this was unlikely to be a bluff? Answer: Begin by considering what conditions would keep the entrant out of the market. The entrant knows that the only way it can make money after entry is if its costs are less than the incumbent’ s since after entry there will be undifferentiated Bertrand competition (low price serves the entire market). The entrant’ s costs are TC=80Q so its marginal cost is 80. Thus, the question that the entrant must answer is whether the incumbent’ s costs are more or less than 80. Now consider the tools the entrant has for acquiring this information. If the incumbent does not try to conceal its costs, then its price should be a perfect indicator of its costs since the entrant can deduce the incumbent’ s costs by running the usual monopoly quantity analysis in reverse. Specifically, if the price in the market is pm, then the profit maximizing quantity qm is qm=400-2pm. The inverse Demand for this market is p = 200-Q/2 so marginal revenue is MR = 200-Q. Substituting qm into this equation for marginal revenue, you know that the incumbent’ s costs must be mc=200-qm=200-400+2pm=2pm-200. With this rule, the entrant would then know that incumbent’ s costs for any given price. The only problem with this approach is that the incumbent may try to conceal its costs. Why? Because if it can make the entrant think that its costs are lower than they truly are, then it can keep the entrant out of the market. This strategy will allow it to remain a monopolist. How can the incumbent fool the entrant about its costs? By setting a market price that is less than the optimal price it could set as a monopolist. To give a concrete example, assume that the incumbent’ s costs are 85, 5 dollars higher than the entrants. If the monopolist sets a price of 142.5, the entrant will know that the incumbent’ s costs are in fact 85. The entrant knows that it will win in Bertrand competition going forward so it enters the market. As a result, the incumbent gets one period of monopoly profits and then zero profits going forward. As an alternative strategy, the monopolist could price at 139.5. Doing so has two effects. First, the naïve entrant will think that the incumbent’ s costs are only 79 and will decide not to enter. This preserves the incumbent’ s monopoly going forward. However, the value of the monopoly to the incumbent is worth less than it was before because it is now pricing at 139.5, not the optimal amount of 142.5, given its true costs. This is the second effect of the strategy, which offsets, in part, the benefits of preserving monopoly. Taken together, you can see the tradeoff that will determine the best strategy for the incumbent. It can lie about its costs by pricing below the optimal amount but to do so it reduces the value of the monopoly it preserves. A sophisticated entrant will know that the incumbent can profitably lie about its costs anytime the discounted value of the monopoly at the deceptive price is greater than the benefits of telling the truth, and making one period of profits at the monopoly price. As a result, some prices do not communicate any information to the entrant. That is, unless a price is low enough, the entrant can’ t tell whether the monopolist is lying or telling the truth. How low does the price have to be before the entrant should believe it? Well, a low price becomes credible as a signal of low cost once it is no longer profitable for the incumbent to try to preserve its monopoly by further lowering its price. This is the point at which the discounted value of the monopoly stream of profits at the new low price is less than the value of telling the truth and making money for one period only. When prices are this low the incumbent keeps the market to itself but it makes less money than it could make by acting as a truthful monopolist for one period, then allowing the entrant to come in. The price at which this occurs is the entry deterring or limit price for the market.
+
+1999 E201a AS6
+
+5
+
+Before solving for the limit price, it is useful to think about how the incumbent’ s strategy varies with its costs. For an incumbent with costs less than 80, the value of a long term monopoly is greater than its value would be if it had costs equal to 80. This suggests that it may have an incentive to lower its price even further in order to preserve its monopoly. But would it ever do this? The answer is no, since all it needs to do is convince the entrant that its costs are no greater than 80, it might as well set its limit pricing strategy as if it costs were 80. Therefore an incumbent with costs less than 80 will behave as if its costs were 80. What about an incumbent with costs greater than 80? This incumbent cannot profitably pretend to have costs that are no greater than 80. The reason is that doing so would require setting a limit price at a point at which the value of preserving the monopoly is less than making profits for one period. Therefore, a high cost incumbent will always find it to be in its interests to make the most of its one period monopoly and leave the market to the low cost entrant. With this analysis, you can determine the limit price by focusing on the behavior of an incumbent whose costs are 80, either because they are at this level, or it makes sense for a low cost incumbent to pretend to have costs this high. The monopoly price and quantity for an incumbent with a marginal cost of 80 are qm=120 and pm=140. Its profits are then (140-80)*120=7200. These profits are earned at the end of the first period so they are discounted by 1.1. Thus, the present discounted value of this strategy is 7200/1.1=6545. The limit pricing strategy will be that price pl such that the discounted stream of profits in perpetuity when pricing at pl are just equal to the profits earned in one period when pricing at the monopoly price. Note that the payoff for this strategy is (pl-80)(400-2pl), beginning at the end of the first period and continuing in perpetuity for all future periods so the total value of this strategy is (pl-80)(400-2pl)/.1. Setting up the relationship between the two strategies as an equation, you have:
+
+( p l - 80) * (400 - 2 p l ) = 6545 .1 ( p l - 80) * (400 - 2 p l ) = 654.5 2 p l - 560 p l + 32654.5 = 0
+You have to use the quadratic formula to find pl. This will be the limit prices at which the two strategies have the same present discounted value. The quadratic formula says that the possible solutions are at
+2
+
+p =
+l
+
+560 ± 560 2 - (4)(2)(32654.5) 2( 2)
+
+.
+
+The two solutions are at pl = 197.2 and pl = 82.8. The first value exceeds the monopoly price that an incumbent with costs of 80 would charge. Therefore, an entrant that sees this price would think the incumbent’ s costs are above 80 rather than less than 80 and would certainly enter. Given this, pl = 197.2 is a mathematical solution to the problem but not an economic one. By contrast, the price pl = 82.8 would only be charged by an incumbent whose costs are no greater than 80. Therefore, it is an effective limit price for the incumbent to use. Technical note: The reason you get two solutions to the problem is that the firm’ s profit function looks like an upside-down U when it is plotted on a graph with profits on the vertical axis and price on the horizontal axis. It reaches its peak at the monopoly price then declines as price either rises or falls from that point. Recall that you need to give away a portion of your monopoly profits in order to make your limit price a credible signal. Since your profit function declines for higher prices as well as lower prices, there are two ways to give away profits, you can either lower price to the limit price or you can raise price. At a price of 197.2, the perpetuity value of the monopoly is indeed 6545, just as it is at a price of 82.8. The problem is that giving away profits in this way doesn’ t improve the credibility of your signal so in a sense it is a useless strategy. As a result, the solution pl=197.2 is a mathematical solution, but not an economic solution to the problem.
+
+1999 E201a AS6
+
+6
+
+5.
+
+Holiday at the Simpsons This is a classic game (Battle of the Sexes) where each player earns a positive externality from choosing the same as the other partner. What is interesting about this game is there are no dominant strategies and little hope of predicting at which outcome the players might arrive. Clearly, the players would prefer one of the two Nash Equilibria at (CD,CD) and (MD,MD) than purchasing different formats. Without communicating, however, Homer and Marge do not know which equilibrium the other is shooting for. With only this information, although the 2 Nash equilibria can be identified, there is no obvious way to assure that either will be reached. The externalities can be clearly observed here in that the situation where each spouse gives the other their preferred format is not the socially optimal choice. Either one could switch to a less-favored format and improve both social and individual welfare. Below is the normal form game. Homer is on the vertical axis, Marge is on the Horizontal. Note that these are purchasing strategies, not receiving strategies.
+
+Marge CD CD 200 MD -100 -100 400 400 100 200 MD 100
+
+6. a)
+
+Protocol If both firms agree on a common standard, how much will each sell, at what price, and with what profits?
+
+Answers: Standards are important in markets such as this one in which the value of the device to customers increases with the number of other customers using the same standard. In this case, rivals agreeing to a common standard face less differentiation but greater scale of demand. With a common standard and differentiated products, both firms play differentiated Bertrand with symmetric demands. Each firm faces MR c = 210 2qc + Pm and has a reaction function of the form: Pc = 105 + 1/2 Pm . (Exchange the subscripts for the other firm). At the Nash equilibrium, Pc = PM = 210, qc = qM =210, and each firm earns profits of 44,100. b) If each firm chooses its own standard, incompatible with the other, how much will each sell, at what price, and with what profits? Answer: With incompatible standards, the firms enjoy greater differentiation. But in the AMOS market, this is more than offset by the fall in the size of the overall market. Now each firm faces MR c = 70 - 2qc + 1/4 Pm and has a reaction function of the form: Pc = 35 + 1/8 Pm . At the Nash equilibrium, Pc = PM = 40, qc = qM =40, and each firm earns profits of 1,600. Clearly both rivals can gain (42,500=44,100-1,600) by agreeing on a common standard.
+
+1999 E201a AS6
+
+7
+
+c)
+
+Suppose that CBIT has already invested $50,000 to design its own software protocol, work that will be worthless unless CBIT brings its own protocol to market. MBIT offers to license its protocol to CBIT for $10 per unit. C.K. Wong , CBIT’ s VP of Engineering has just stormed out of the CEO’ s office, threatening to quit unless CBIT adopts the protocol her group designed, and pointing out the foolishness of throwing away a $50,000 investment What would be CBIT’ s profits if it were to accept MBIT’ s terms?
+
+Answer: The $50,000 is a sunk expenditure and so irrelevant to the forward-looking decision of whether to adopt a common standard or not. If CBIT accepts MBIT's offer to licence the protocol at $10 each, CBIT's MC will be 10. Equating this to MR c = 210 - 2qc + Pm yields a new reaction function for CBIT Pc = 110 + 1/2 Pm . MBIT's revenue function now includes the licensing revenues of 10qc , but this does not change its marginal revenue or its reaction function which remains at PM = 105 + 1/2 PC . Now the Nash equilibrium is at PM = 213.33 and PC = 216.66. qC = 210- PC + PM, = 206.67. CBIT's profits are qC ( PC -10) = 42,708. d) Now MBIT offers to license its technology for $42,400 per year, with no use fee. What would be CBIT’ s profits if it were to accept MBIT’ s terms? Answer: The fixed fee of 42,400 is subtracted from CBIT's profits found in part A, leaving profits of 1,700. e) To help pay for C.K. Wong’ s going away party, CBIT offers a counterproposal to MBIT. CBIT will agree to use MBIT’ s technology, but only if MBIT reimburses CBIT $50,000 annually. Should MBIT accept this counterproposal?
+
+Answer: MBIT always has the option to go it alone and earn profits of 1,600. If MBIT accepted CBIT's exorbitant licensing proposal it would earn profits of 44,100 - 50,000 = -5,900. They should not accept. f) Suppose CBIT had spent $500,000 rather than $50,000 on its technology. What difference, if any, would this make in CBIT’ s decision? Answer: This sunk expenditure should not change its decision looking forward.
+
+7.
+
+Libertarian Freeway a) The market tips toward the first period market leader in this battle of the standards. The first period leader prices as a monopoly in the second period. Price is 22,000, quantity is 200,000 and profits are 2 million.
+
+b) With a 50% chance of winning, expected 2nd period profits are 1 million (=.5(0) + .5 (2 million)). A risk neutral firm would sink no more than this as a first period loss. c) Pricing at MC each firm earns zero profits, satisfying the condition derived in part B. Expected 2period profits remain non-negative as each firm prices below MC in the first period up to the point at which each loses 1 million in the first period. Pricing at zero entails a first period loss of $6,720,000,000 (giving away cars is more costly than giving away electrons) which cannot be fully offset in the second period. (Whether they would want to price at or below MC in the first period depends on how they believe additional first period losses affect the probability of winning sales.)
+
+1999 E201a AS6
+
+8
+
+d) If the first period loss when both firms enter is no greater than $1 million each, the entry of both is a Nash equilibrium because neither could do better by not entering. So neither will wish to change its move. (Note that a game of chicken will develop if the firms believe (more realistically) that they can increase their chances of setting the standard by spending more in the first period. Under those conditions, the two Nash equilibria in pure strategies each entail only one firm entering. However, a coordination mechanism to achieve this result is lacking. If both enter, both lose.) e) Putra and Vauxhaul will be falling over each other pricing below cost to lock-in the bulk purchaser in the first period in order to establish their standard. The bulk customer’ s leverage to set the standard is lost in the second period.
+
+Optional Extra Problems (PS5 # 11) FTC vs. Ethyl Corporation, DuPont Game theory teaches us that you can sometimes reach a more desirable outcome by unilaterally limiting your options or unilaterally increasing your own cost of defecting. The issues of Advanced Notice Clauses, Most-Favored Customer Clauses, and Delivered Prices are dealt with in pages 314-316 of the Besanko text. These practices all reduce price competition by limiting firm's abilities or incentives to engage in price competition. A firm wishing to charge prices above its marginal cost must find some way to avoid being caught in the prisoner’ s dilemma, where each firm has an incentive to lower its price until all firms reach the Bertrand trap. In order to do this, firms must limit their ability to lower prices and/or create severe penalties for rivals doing so. In the true prisoner’ s dilemma, penalties may equate to having a crime organization that kills all defectors. We know that firms can limit price competition by engaging in these three practices, but how will they affect customers? As a customer, Most Favored Customer Clauses may seem to be a good thing. They ensure that should one customer receive a lower price, you will be refunded the difference. However by instituting these clauses, the sellers are able to hold general prices higher than were they not in place. Myopic customers may gladly accept MFCCs, without recognizing the long-run costs. Also consider that if your competitors (other purchasers) accept MFCCs and you do not, you are worse off than had you accepted MFCC. In essence, MFCCs place the customers in a sort of a prisoner’ s dilemma. You are all better off if no one has them, but better off if you alone have them. Uniform delivered prices may make your accounting and billing simpler, or you may like the idea of “one low price”, but the end result is still that prices are maintained higher than they otherwise would be. The same is true for advanced notice clauses. While they may help you plan your production decisions, in the long run they inflate prices. In general, any practice that reduces price competition among your suppliers will inevitably hurt you. Note that in certain cases, these practices overlap. Uniform delivered prices keep firms from selectively cutting prices to particular customers. If MFCCs are in place, selective pricing is not an attractive option, therefore uniform delivered prices have negligible additional effect on the market. 8.
+
+9.
+
+Cost Signalling II
+
+A. Without the threat of entry, Axe enjoys a monopoly position. P = 36 – Q MR = 36 – 2Q = MC If MC=0 then Q * = 18 and p A = 18(36 – 18) = 324 If MC = 12 then Q * = 12 and p A = 12[(36 – 12) – 12] = 144 B. Because both firms must pre-commit to a quantity and price will clear the market for the undifferentiated hatchets, they face a Cournot game if both enter.
+
+1999 E201a AS6
+
+9
+
+Axe with MC=0 has reaction function qA = 18- 1/2 qO . Knowing that this is Axe's reaction function, Oski knows there is no output level at which Oski could profit. Oski's profits are qO (P-6) - 80. Substituting in for P, this is qO (30- qO -qA) - 80. Substituting in Axe's reaction function, this is qO (30- qO -[18- 1/2 qO ]) - 80. This simplifies to Oski's profits as a function of its output: -1/2 (qO)2 + 12 qO - 80. You can verify with a spreadsheet that there is no positive output level that generates profits for Oski. Axe knows that Oski cannot profitably enter. Axe enjoys the monopoly profit of part A. If Oski enters, then: P = 36 – qA – qO MRO = 36 – qA – 2qO = 6 MRA = 36 – qO – 2qA = 0 qO = 15 – qA /2 qA = 18 – qO /2 qO = 8; qA = 14; P = 36 – 8 – 14 = 14 p O = 8(14 – 6) – 80 = –16 p A = 14(14 – 0) = 196 So, Oski does not enter. The 2 nd period quantities and profits are: qO = 0 p O= 0 qA = 18 p A = 324 C. Axe with MC=12 has reaction function qA = 12- 1/2qO. The expression for Oski's profits is now qO (30- qO -[12- 1/2 qO ]) - 80. This simplifies to Oski's profits as a function of its output: -1/2 (qO)2 + 18 qO - 80. Now it is possible for Oski to profit at output levels greater than 5, so Axe will anticipate Oski's entry. Oski's reaction function is 15 - 1/2 qA . The Cournot equilibrium is at Axe produces 6 and Oski produces 12. The price is 18. Axe earns profits of 6(18-12) = 36. Oski earns profits of 12(18-6) - 80 = 64. If Oski enters, then P = 36 – qA – qO MRO = 36 – qA – 2qO = 6 MRA = 36 – qO – 2qA = 12 qO = 15 – qA /2 qA = 12 – qO /2 qO = 12; qA = 6; P = 36 – 12 – 6 = 18 p O = 12(18 – 6) – 80 = 64 > 0, therefore Oski does enter p A = 6 (18 – 12) = 36 D. This is a most difficult problem. Oski could be deterred from entering in the second period if Axe can credibly signal that it has low costs in the first period. But Axe cannot credibly signal low costs with high first period output. Neither firm has a dominant strategy. Axe cannot deter Oski's entry with certainty, because Oski knows that it might sometimes pay Axe to set first period output to 18 even if its costs were high. There is no separating equilibrium since if Oski believes that Q * = 18 signals that Axe has MC = 0, Axe has incentive to set Q = 18 even if its MC = 12. To see this, assume MC =12 and compare Axe’ s profits when (a) Axe sets Q = 18 in period 1 and Oski stays out in period 2 (b) Axe sets Q = 12 in period 1 and Oski enters in period 2 There is a mixed strategy equilibrium in which Axe always plays Q = 12 in period 1, and both Axe and Oski mix their period 2 quantities.
+
+10. Vaporware The first announcement of vaporware may be an attempt to deter a potential rival's entry into the market. It may also be an attempt to forestall the defection of customers, distributors, or suppliers to a rival. Strategies that work once might not work twice if rivals and customers learn to discount the statements of a firm that has failed to keep its word.
+
+1999 E201a AS6
+
+10
+
+

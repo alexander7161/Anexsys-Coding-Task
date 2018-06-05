@@ -1,0 +1,45 @@
+﻿Subject: Re: Minnesota telecom ruling
+From: scott_bolton@leaf.net
+Date: Sat, 04 Dec 1999 07:57:00 +0000
+To: "susan m landwehr"
+Cc: "jeff dasovich",
+    "lisa yoho",
+    "marchris robinson",
+    "richard shapiro",
+    "sue nord"
+
+
+^Sue, this is an issue that is becoming more important as ECI becomes more
+involved in local provisioning services. 
+
+
+;I also believe that the DSL provider
+that brought the complaint is a company that we may begin partnering on some 
+DSL
+delivery with. ;Essentially this ruling is very good and will speed 
+competitive
+DSL deployment. ;I don't think you will see ECI teaming with anyone to provide
+DSL in Minnesota just yet, but we will be doing just that in LA, San Jose, New
+York, Chicago, and DC very soon.
+
+Our response: ;this is good, keep it up PUC, and Enron supports expanding
+competition. I think we should watch this development -- but I don't think you
+should expend any resources at this time.
+
+We can't describe ECI's business as simply wholesale because we often contract
+services directly with end-users. ;How we get from our national backbone to 
+the
+custormer is becoming increasingly important as we reassess our responsibility
+to deliver in the "last mile." ;We used to think that the last mile would take
+care of itself and that our customers would figure out how to reach us. ;Now, 
+we
+are increasingly looking at how to better ensure delivery of services and
+provide the quality of connectivity it will take for our network to fully be
+appreciated.
+
+I hope that helps.
+
+
+
+
+

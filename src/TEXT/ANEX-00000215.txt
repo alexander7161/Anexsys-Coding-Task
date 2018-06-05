@@ -1,0 +1,28 @@
+﻿Subject: Correction to AS #7.
+From: "J. Lamar Pierce" <pierce@haas.berkeley.edu>
+Date: Sat, 02 Oct 1999 08:43:00 +0100
+To: abernath@haas.berkeley.edu,
+    ajm@lehman.com,
+    arao@haas.berkeley.edu,
+    asbo@ix.netcom.com
+
+
+I have found a mistake in AS #7, on problem 4, parts f and g.  The MR
+function is wrong which messes up the answers for the rest of the problem.
+I apologize for missing this.  I sincerely hope, however, that you caught
+this mistake in doing the problems.  At this point, such a mistake should
+be quite noticeable.  I have included the correction in an attached word
+file. Sorry this is so late.
+
+J. Lamar Pierce
+Ph.D Student
+Haas School of Business
+UC Berkeley
+
+
+
+ - Correction to AS.doc
+
+
+
+
