@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://alexanderdavis.net/anexsys",
   "dependencies": {
+    "jQuery": "^1.7.4",
     "papaparse": "^4.5.0",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
